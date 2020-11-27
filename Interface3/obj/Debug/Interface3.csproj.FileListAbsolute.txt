@@ -1,0 +1,7 @@
+D:\class\oop2\New folder\Interface3\Interface3\bin\Debug\Interface3.exe.config
+D:\class\oop2\New folder\Interface3\Interface3\bin\Debug\Interface3.exe
+D:\class\oop2\New folder\Interface3\Interface3\bin\Debug\Interface3.pdb
+D:\class\oop2\New folder\Interface3\Interface3\obj\Debug\Interface3.csprojAssemblyReference.cache
+D:\class\oop2\New folder\Interface3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+D:\class\oop2\New folder\Interface3\Interface3\obj\Debug\Interface3.exe
+D:\class\oop2\New folder\Interface3\Interface3\obj\Debug\Interface3.pdb
